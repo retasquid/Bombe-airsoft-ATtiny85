@@ -7,3 +7,10 @@ Les boutons sont associer à des résistances pour créer des tensions différen
 Je n'est pas tester le programme sur d'autres ATtiny/écrans/tensions d'alimentations. 
 
 ![image](https://github.com/user-attachments/assets/1ed4017a-311f-4d31-87db-dfe4b25833ff)
+
+#Librairies
+J'utilise les librairies TinyOzOled de SensorsIot et TinyWireM d'Adafruit.
+
+https://github.com/SensorsIot/TinyOzOled.git
+
+https://github.com/adafruit/TinyWireM.git
